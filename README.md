@@ -3,6 +3,7 @@
 This library works for MP3 module sold @ [www.continentalee.com.sg](www.continentalee.com.sg).
 
 **NOTE: SD card / USB must be plugged in before power on.**
+
 **NOTE: Speaker must be connected before power on.**
 
 ## Functions:
@@ -30,5 +31,6 @@ int get_track_time();				// Get current total track timing
 int get_response();
 ```
 
-* All works developed by continentalee.
-* Please credit when you use this library in your project.
+**All works developed by continentalee.**
+
+**Please credit when you use this library in your project.**
