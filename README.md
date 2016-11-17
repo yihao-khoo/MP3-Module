@@ -48,5 +48,6 @@ int get_track_time();			      	// Get current total track timing
 
 int get_response();               // Get response from module
 
-All works developed by continentalee.
-Please credit when you use this library in your project.
+
+* All works developed by continentalee.
+* Please credit when you use this library in your project.
