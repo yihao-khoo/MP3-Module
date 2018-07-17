@@ -1,6 +1,6 @@
 # MP3-Module
 
-This library works for MP3 module sold @ [www.continentalee.com.sg](www.continentalee.com.sg).
+This library works for MP3 module sold @ [www.continental.sg](www.continental.sg).
 
 **NOTE: SD card / USB must be plugged in before power on.**
 
