@@ -9,7 +9,7 @@ This library works for MP3 module sold @ [www.continental.sg](www.continental.sg
 void begin();                     // Begin function
 void send_cmd(uint8_t *cmd);      // Send command function
 void select_file(uint16_t file);  // Select file
-void play();					            // Play
+void play();                // Play
 void pause();					            // Pause
 void next();					            // Next track
 void previous();				          // Previous track
